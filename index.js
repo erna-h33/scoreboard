@@ -1,7 +1,3 @@
-// let homeScoreEl = 99;
-// let awayScoreEl = 0;
-// document.getElementById("home-score-el").textContent = homeScoreEl;
-
 const homeScoreEl = document.getElementById("home-score-el");
 const awayScoreEl = document.getElementById("away-score-el");
 
